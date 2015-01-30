@@ -17,7 +17,12 @@ By taking this course, I hope to gain a very precise understanding on what makes
 and be able to revisit previously studied methods armed with this new understanding. Also, I hope to gain
 experience in computational methods for making inference (using python or matlab).
 
-## Description of a data analysis problem that interests me
+## Description of a data analysis problem
+
+A data analysis problem that I have been working on is the problem of enabling robots to become reliable personal
+assistants. One of the key requirements for any robot to become a reliable personal assistant is being able
+to handle objects that are designed for human use. Because there are so many variations in the human
+environment, a rule-based approach is unlikely to generalize effectively.
 
 
 • A description of a data analysis problem or class of problems that interests you. This could be a problem
