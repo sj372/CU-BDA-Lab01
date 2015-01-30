@@ -2,9 +2,18 @@
 
 **Name:** Seok Hyun Jin  
 **Major:** Computer Science  
-**Status:** Master of Engineering  
+**Status:** Master of Engineering student (first semester)   
 
 ## Motivation for taking the course
+
+My main motivation for taking this course is that I want to understand very clearly what it means
+for an approach to be 'Bayesian'. In the past year, many courses on machine learning that I have
+taken discussed methods that are under the Bayesian framework. Such methods include hierarchical
+models, gaussian processes, dirichlet processes and so on. While those courses definitely demonstrated
+the strengths of Bayesian methods, I don't think any of them discussed in detail the important
+concepts and definitions of the framework.  
+
+asdf
 
 
 Your name, major, and student status (year)
