@@ -22,8 +22,12 @@ experience in computational methods for making inference (using python or matlab
 A data analysis problem that I have been working on is the problem of enabling robots to become reliable personal
 assistants. One of the key requirements for any robot to become a reliable personal assistant is being able
 to handle objects that are designed for human use. Because there are so many variations in the human
-environment, a rule-based approach is unlikely to generalize effectively.
+environment, a rule-based approach is unlikely to generalize effectively. Therefore, we take a data-driven
+approach for this problem.
 
+### Image that shows an example of related data
+
+![](images/motion_example.png?raw=true)
 
 • A description of a data analysis problem or class of problems that interests you. This could be a problem
 from a lab course, a thesis project, academic literature in your field, or from the public media.
