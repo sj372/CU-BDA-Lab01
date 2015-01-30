@@ -5,8 +5,6 @@
 **Status:** Master of Engineering 
 
 # Motivation for taking the course
-:q
-
 
 
 Your name, major, and student status (year)
