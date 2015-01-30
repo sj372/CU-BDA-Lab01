@@ -7,12 +7,18 @@
 ## Motivation for taking the course
 
 My main motivation for taking this course is that I want to understand very clearly what it means
-for an approach to be 'Bayesian'. In the past year, many courses on machine learning that I have
-taken discussed methods that are under the Bayesian framework. Such methods include hierarchical
+for an approach to be 'Bayesian'. Many courses on machine learning that I have
+taken this past year discussed methods that are under the Bayesian framework. Such methods include hierarchical
 models, gaussian processes, dirichlet processes and so on. While those courses definitely demonstrated
 the strengths of Bayesian methods, I don't think any of them discussed in detail the important
 concepts and definitions of the framework.  
 
+By taking this course, I hope to gain a very precise understanding on what makes an approach a Bayesian approach
+and be able to revisit previously studied methods armed with this new understanding. Also, I hope to gain
+experience in computational methods for making inference (using python or matlab).
+
+
+be able to make the distinction between popular method 
 asdf
 
 
