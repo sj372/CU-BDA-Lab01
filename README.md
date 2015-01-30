@@ -1,8 +1,8 @@
 # CU-BDA-Assignment 1
 
-**Name:** Seok Hyun Jin
-**Major:** Computer Science
-**Status:** Master of Engineering 
+**Name:** Seok Hyun Jin  
+**Major:** Computer Science  
+**Status:** Master of Engineering  
 
 # Motivation for taking the course
 
