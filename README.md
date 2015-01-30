@@ -4,7 +4,7 @@
 **Major:** Computer Science  
 **Status:** Master of Engineering  
 
-# Motivation for taking the course
+## Motivation for taking the course
 
 
 Your name, major, and student status (year)
